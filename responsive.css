@@ -1,0 +1,44 @@
+@media screen and (max-width: 648px){
+	.suq{
+		width: 100%;
+	}
+	.nd{
+		padding: 5%;
+		width: 100%;
+		margin: 0 0 0 0;
+	}
+	.m_br br{
+		display: none
+	}
+	li br{
+		display: none
+	}
+	.m_in{
+		display: inline-block;
+	}
+	.l1{
+		width: 100%;
+		float: inherit;
+	}
+	.l2{
+		width: 100%;
+		float: inherit;
+	}
+	.l3{
+		width: 100%;
+		float: inherit;
+	}
+	.l4{
+		width: 100%;
+		float: inherit;
+	}
+	img.i5 {
+		position: static;
+		width: 100%;
+	}
+	.product {
+		padding: 5.5%;
+		width: 100%;
+	}
+	
+}
